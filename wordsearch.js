@@ -30,7 +30,7 @@ const wordSearch = (letters, word) => {
         }
     }
 
-    return false
+     return false
   }
   
   
